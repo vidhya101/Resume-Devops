@@ -174,3 +174,19 @@ footer {
     text-decoration: none;
     cursor: pointer;
 }
+
+.download-btn {
+    display: block;
+    padding: 10px 20px;
+    margin-top: 10px;
+    background-color: red !important;
+    color: white !important;
+    text-decoration: none;
+    border-radius: 5px;
+    font-size: 1.2em;
+    text-align: center;
+}
+
+.download-btn:hover {
+    background-color: #45a049;
+}
